@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Vamos conversar?
-[![LinkedIn] (https://www.linkedin.com/in/guilherme-almeiida)
+[LinkedIn] (https://www.linkedin.com/in/guilherme-almeiida)
 
 
 <!--
