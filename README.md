@@ -2,7 +2,7 @@
 
 🎯 Focado em desenvolvimento Back-End  
 📚 Estudando Java, PHP e MySQL  
-🎓 Cursando Análise e Desenvolvimento de Sistemas (1º semestre)  
+🎓 Cursando Engenharia de Software (2º semestre)  
 📍 São Paulo - SP  
 🚀 Em busca de estágio na área de tecnologia
 
